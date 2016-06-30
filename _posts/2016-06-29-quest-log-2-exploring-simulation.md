@@ -10,7 +10,7 @@ tags: [programming, physics, simulation]
 I've created a new section on the site for simulation related
 information.  I'll be moving a lot of the research text from my
 personal notes and my
-[Simulation](http://github.com:finger563/simulation) repository.  This
+[Simulation](http://github.com/finger563/simulation) repository.  This
 will be a continuation of my endevour to create realistic rendering
 and simulation for solar-system level activities, in the vein of a
 more realistic [Kerbal Space
